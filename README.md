@@ -1,4 +1,13 @@
 ![vega-high-resolution-logo-transparent](https://github.com/Zenda-Cross/vega-app/assets/143804558/b2eb446f-8e7f-4800-81e1-3320c82f33de)
+</p>
+<p align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg">
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
+   <img src="https://m3-markdown-badges.vercel.app/stars/1/3//emerent/vega-desktop">
+   <img src="https://m3-markdown-badges.vercel.app/issues/1/2//emerent/vega-desktop">
+</p>
 
 # Vega-Desktop
 Native Desktop app for streaming media (Windows, macOS, Linux).
@@ -84,7 +93,7 @@ ___
 > Vega Desktop does not host, store, or provide any media content. It is not affiliated with or connected to any external providers or extensions. All content accessed through the app is managed and sourced directly by the user via third-party tools or integrations. Vega Desktop has no control over it.
 
 
-## Leave a star if this was helpful
+## ⭐ Leave a star if this was helpful
 
 <a href="https://www.star-history.com/?repos=vega-org%2Fvega-desktop&type=date&legend=top-left">
  <picture>
